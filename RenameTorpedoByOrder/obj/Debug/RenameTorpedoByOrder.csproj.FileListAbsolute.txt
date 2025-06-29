@@ -1,0 +1,7 @@
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\bin\Debug\RenameTorpedoByOrder.exe.config
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\bin\Debug\RenameTorpedoByOrder.exe
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\bin\Debug\RenameTorpedoByOrder.pdb
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\obj\Debug\RenameTorpedoByOrder.csproj.AssemblyReference.cache
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\obj\Debug\RenameTorpedoByOrder.csproj.CoreCompileInputs.cache
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\obj\Debug\RenameTorpedoByOrder.exe
+C:\Users\CSP6401\Documents\Repositório\PredictCropTorpedos\RenameTorpedoByOrder\obj\Debug\RenameTorpedoByOrder.pdb
